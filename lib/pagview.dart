@@ -25,7 +25,7 @@ List<Data> mydata = [
           "Explore curated lists of top restaurants, cafes, pubs, and bars in mumbai,dased on trebds.",
       image: "assets/images/A3.gif"),
   Data(
-      title: "Search",
+      title: "Searchs",
       description:
           "Discover restaurants by type meal,see menus and photos for nrarby restaurant and bookmark your favorite places on the go",
       image: "assets/images/A3.gif"),
